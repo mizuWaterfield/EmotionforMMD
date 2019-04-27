@@ -2,7 +2,7 @@
 //AutoBlink.cs改変
 //オート目パチ・表情変化スクリプト
 //2014/06/23 N.Kobayashi
-//2018/02/10 
+//2018/02/10 mizu
 
 
 using UnityEngine;
