@@ -1,5 +1,5 @@
 # EmotionforMMD
-MMDのオート目パチ&amp;Touchで表情を変えるUnityスクリプト
+MMDのオート目パチ&amp;Oculus Touchで表情を変えるUnityスクリプト
 
 `A button`…Angry
 
